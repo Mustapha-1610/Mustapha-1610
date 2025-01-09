@@ -1,6 +1,6 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/tunisianauctionwebapp.appspot.com/o/9070324cdfc07c68d60eed0c39e77573.gif?alt=media&token=69b90144-e92b-4c9d-be3d-3fb470d30bae)
 <h1 align="center">Hello There, I'm Mustapha Talbi</h1>
-<h3 align="left">Connect with me: <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="18" width="30" /></a>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/mustaphatalbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="18" width="30" /></a>
 </h3>
 <p align="left">
   Im A detail-oriented full-stack web developer passionate about backend development and delivering scalable, user-driven solutions. 
